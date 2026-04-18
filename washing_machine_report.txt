@@ -1,0 +1,24 @@
+Membership Functions Output
+3 graphs:
+Dirt Level MF
+Load Size MF
+Time MF
+
+👉 Use:
+
+plotmf(fis,'input',1)
+plotmf(fis,'input',2)
+plotmf(fis,'output',1)
+
+✔️ Rule Viewer Output
+
+👉 Use:
+
+ruleview(fis)
+
+
+This shows:
+
+Active rules
+Input-output mapping
+Defuzzified result
